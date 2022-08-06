@@ -7,3 +7,4 @@ This is an Arduino-based implementation of the Diamond2 and Diamond2 Lite Block 
 
 However, it should work with any reasonably powerful MCU – this is OLD code, and was running before most of us had access to the Internet (Diamond2 was released in 1995). There's one example so far, which does a round trip as a sanity check. I will add more examples and test them on various MCUs.
 
+See [this Twitter thread](https://twitter.com/Kongduino/status/1555433890071732224).
